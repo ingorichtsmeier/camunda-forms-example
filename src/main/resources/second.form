@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Hello",
+      "type": "textfield",
+      "id": "Field_0z2z8yh",
+      "key": "name"
+    },
+    {
+      "label": "living at",
+      "type": "textfield",
+      "id": "Field_18non69",
+      "key": "street"
+    },
+    {
+      "type": "textfield",
+      "id": "Field_1lm1pne",
+      "key": "houseNumber"
+    },
+    {
+      "type": "textfield",
+      "id": "Field_08x9c3c",
+      "key": "city"
+    }
+  ],
+  "type": "default",
+  "id": "secondForm"
+}

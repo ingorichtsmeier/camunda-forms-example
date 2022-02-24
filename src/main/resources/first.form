@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Hello",
+      "type": "textfield",
+      "id": "Field_0amzfxf",
+      "key": "name"
+    },
+    {
+      "text": "Enter your address",
+      "type": "text",
+      "id": "Field_1f5a5d4"
+    },
+    {
+      "label": "Street",
+      "type": "textfield",
+      "id": "Field_1dv0em8",
+      "key": "street"
+    },
+    {
+      "label": "House number",
+      "type": "textfield",
+      "id": "Field_0xxhvfv",
+      "key": "houseNumber"
+    },
+    {
+      "label": "City",
+      "type": "textfield",
+      "id": "Field_1x3hinl",
+      "key": "city"
+    }
+  ],
+  "type": "default",
+  "id": "firstForm"
+}
